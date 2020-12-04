@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-numberArray = fs.readFileSync('./input.txt', 'utf-8').split('\n').map((num) => {
+numberArray = fs.readFileSync('../input.txt', 'utf-8').split('\n').map((num) => {
     return parseInt(num);
 });
 
