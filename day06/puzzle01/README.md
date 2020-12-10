@@ -1,4 +1,4 @@
-# Day6: Binary Boarding | Puzzle 1
+# Day 6: Binary Boarding | Puzzle 1
 As your flight approaches the regional airport where you'll switch to a much larger plane, customs declaration forms are distributed to the passengers.
 
 The form asks a series of 26 yes-or-no questions marked ```a``` through ```z```. All you need to do is identify the questions for which **anyone in your group** answers "yes". Since your group is just you, this doesn't take very long.

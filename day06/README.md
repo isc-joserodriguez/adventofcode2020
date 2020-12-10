@@ -1,4 +1,4 @@
-# Day6: Binary Boarding
+# Day 06: Binary Boarding
 ## Content
 1. [Puzzle 1](#puzzle1)
 2. [Puzzle 2](#puzzle2)
