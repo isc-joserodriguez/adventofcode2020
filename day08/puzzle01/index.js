@@ -1,13 +1,13 @@
 const fs = require('fs');
 let acc = 0;
-const instrucctions = fs.readFileSync('/home/shepe/Documentos/adventofcode2020/day08/input.txt', 'utf-8').split('\n');
+const instructions = fs.readFileSync('../input.txt', 'utf-8').split('\n');
 
 const findLoop = () => {
     let pos = 0;
     let nextPos = 0;
     let posArray = [0];
     while (true) {
-        nextPos = execute(instrucctions[pos], pos);
+        nextPos = execute(instructions[pos], pos);
         if (posArray.includes(nextPos)) {
             console.log(acc);
             return
