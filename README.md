@@ -11,8 +11,8 @@ Day | Puzzle 1 | Puzzle 2
 [5](https://adventofcode.com/2020/day/5)|[:star2: Go](https://github.com/joanrodriguezhe/adventofcode2020/tree/main/day05/puzzle01)|[:star2: Go](https://github.com/joanrodriguezhe/adventofcode2020/tree/main/day05/puzzle02)
 [6](https://adventofcode.com/2020/day/6)|[:star2: Go](https://github.com/joanrodriguezhe/adventofcode2020/tree/main/day06/puzzle01)|[:star2: Go](https://github.com/joanrodriguezhe/adventofcode2020/tree/main/day06/puzzle02)
 [7](https://adventofcode.com/2020/day/7)|[:star2: Go](https://github.com/joanrodriguezhe/adventofcode2020/tree/main/day07/puzzle01)|[:star2: Go](https://github.com/joanrodriguezhe/adventofcode2020/tree/main/day07/puzzle02)
-<!--
 [8](https://adventofcode.com/2020/day/8)|[:star2: Go](https://github.com/joanrodriguezhe/adventofcode2020/tree/main/day08/puzzle01)|[:star2: Go](https://github.com/joanrodriguezhe/adventofcode2020/tree/main/day08/puzzle02)
+<!--
 [9](https://adventofcode.com/2020/day/9)|[:star2: Go](https://github.com/joanrodriguezhe/adventofcode2020/tree/main/day09/puzzle01)|[:star2: Go](https://github.com/joanrodriguezhe/adventofcode2020/tree/main/day09/puzzle02)
 [10]((https://adventofcode.com/2020/day/10)|[:star2: Go](https://github.com/joanrodriguezhe/adventofcode2020/tree/main/day10/puzzle01)|[:star2: Go](https://github.com/joanrodriguezhe/adventofcode2020/tree/main/day10/puzzle02)
 [11](https://adventofcode.com/2020/day/11)|[:star2: Go](https://github.com/joanrodriguezhe/adventofcode2020/tree/main/day11/puzzle01)|[:star2: Go](https://github.com/joanrodriguezhe/adventofcode2020/tree/main/day11/puzzle02)
