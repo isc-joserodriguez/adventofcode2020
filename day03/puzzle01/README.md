@@ -1,7 +1,7 @@
 # Day 03: Toboggan Trajectory | Puzzle 1
 With the toboggan login problems resolved, you set off toward the airport. While travel by toboggan might be easy, it's certainly not safe: there's very minimal steering and the area is covered in trees. You'll need to see which angles will take you near the fewest trees.
 
-Due to the local geology, trees in this area only grow on exact integer coordinates in a grid. You make a [map](https://raw.githubusercontent.com/joanrodriguezhe/adventofcode2020/main/day03/input.txt) of the open squares (```.```) and trees (```#```) you can see. For example:
+Due to the local geology, trees in this area only grow on exact integer coordinates in a grid. You make a [map](https://raw.githubusercontent.com/isc-joserodriguez/adventofcode2020/main/day03/input.txt) of the open squares (```.```) and trees (```#```) you can see. For example:
 
 ```
 ..##.......

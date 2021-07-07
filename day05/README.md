@@ -6,7 +6,7 @@
 ## Puzzle 1
 You board your plane only to discover a new problem: you dropped your boarding pass! You aren't sure which seat is yours, and all of the flight attendants are busy with the flood of people that suddenly made it through passport control.
 
-You write a quick program to use your phone's camera to scan all of the nearby boarding [passes](https://raw.githubusercontent.com/joanrodriguezhe/adventofcode2020/main/day05/input.txt); perhaps you can find your seat through process of elimination.
+You write a quick program to use your phone's camera to scan all of the nearby boarding [passes](https://raw.githubusercontent.com/isc-joserodriguez/adventofcode2020/main/day05/input.txt); perhaps you can find your seat through process of elimination.
 
 Instead of zones or groups, this airline uses **binary space partitioning** to seat people. A seat might be specified like ```FBFBBFFRLR```, where ```F``` means "front", ```B``` means "back", ```L``` means "left", and ```R``` means "right".
 

@@ -18,7 +18,7 @@ abcz
 
 In this group, there are ```6``` questions to which anyone answered "yes": ```a```, ```b```, ```c```, ```x```, ```y```, and ```z```. (Duplicate answers to the same question don't count extra; each question counts at most once.)
 
-Another group asks for your help, then another, and eventually you've collected answers from every [group on the plane](https://raw.githubusercontent.com/joanrodriguezhe/adventofcode2020/main/day06/input.txt). Each group's answers are separated by a blank line, and within each group, each person's answers are on a single line. For example:
+Another group asks for your help, then another, and eventually you've collected answers from every [group on the plane](https://raw.githubusercontent.com/isc-joserodriguez/adventofcode2020/main/day06/input.txt). Each group's answers are separated by a blank line, and within each group, each person's answers are on a single line. For example:
 
 ```
 abc

@@ -21,7 +21,7 @@ The automatic passport scanners are slow because they're having trouble **detect
 * ```pid``` (Passport ID)
 * ```cid``` (Country ID))
 
-Passport data is validated in batch [files](https://raw.githubusercontent.com/joanrodriguezhe/adventofcode2020/main/day04/input.txt). Each passport is represented as a sequence of ```key:value``` pairs separated by spaces or newlines. Passports are separated by blank lines.
+Passport data is validated in batch [files](https://raw.githubusercontent.com/isc-joserodriguez/adventofcode2020/main/day04/input.txt). Each passport is represented as a sequence of ```key:value``` pairs separated by spaces or newlines. Passports are separated by blank lines.
 
 Here is an example batch file containing four passports:
 
